@@ -1,9 +1,7 @@
 /*
  ============================================================================
  Name        : ESN_RFID.c
- Author      : Girish Kamath
- Date		 : 11/27/2013
- Version     : v1.0
+ Author      : Lin Liu
  Copyright   : Your copyright notice
  Description : To calculate the co-ordinates of the reference tags when the
   	  	  	  	transmitted power and details are given
