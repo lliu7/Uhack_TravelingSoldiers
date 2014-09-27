@@ -1,7 +1,7 @@
 /*
 ============================================================================
 Name        : test.c
-Author      : bkm
+Author      : Lin Liu
 Version     :
 Copyright   : Your copyright notice
 Description : Hello World in C, Ansi-style
